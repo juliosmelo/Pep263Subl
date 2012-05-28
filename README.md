@@ -3,6 +3,10 @@ Pep263Subl
 
 Plugin for include PEP 263. Defining the encoding to "utf-8" in python files.
 
+Instalation 
+
+Copy the Pep263 folder to .config/sublime-text-2/Packages
+
 Usage:
 
 Copy this file to folder Package.
