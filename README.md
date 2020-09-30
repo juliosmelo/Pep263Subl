@@ -12,3 +12,4 @@ Usage:
 Copy this file to folder Package.
 
 Type 'ctrl-alt-j' at Sublime. This will include the PEP 263 to "utf-8" on begin file.
+end
